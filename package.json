@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "wat-wasm": "^1.0.43"
+  }
+}
